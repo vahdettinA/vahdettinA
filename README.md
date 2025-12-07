@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vahdettin AYDIN</h1>
-<h3 align="center">Mobile Application Developer | Flutter Enthusiast</h3>
+<h3 align="center">Mobile & Backend Developer | Flutter • Rust • Go</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vahdettina&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
@@ -8,10 +8,12 @@
 ---
 
 ## 🚀 About Me
-- 📱 I'm a **Mobile Developer** specialized in **Flutter**
-- 🌱 Currently improving my skills in **state management, clean architecture & scalable app design**
-- 📫 Reach me at: **vahdettin.21aydin@gmail.com**
-- ⚡ Fun fact: **I enjoy creating smooth UI/UX experiences**
+- 📱 Passionate **Mobile Application Developer (Flutter)**
+- 🖥️ Interested in **Backend Development** (Rust, Go, Node.js, .NET)
+- 🌱 Currently improving: **Clean Architecture, State Management (Bloc), API Design**
+- 🎯 Focused on building **scalable, clean and high-performance applications**
+- 📫 Contact: **vahdettin.21aydin@gmail.com**
+- ⚡ Fun fact: **I enjoy crafting smooth UI/UX & fast backend services**
 
 ---
 
@@ -29,7 +31,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,html,css,c,cpp,cs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,rust,firebase,androidstudio,git,github,figma,html,css,c,cpp,cs,bootstrap,nodejs,dotnet" />
 </p>
 
 ---
@@ -43,6 +45,6 @@
 ---
 
 ## 💡 Quote
-> “Code is like humor. When you have to explain it, it’s bad.”
+> “The best software is written by those who love what they do.”
 
 ---
