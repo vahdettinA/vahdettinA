@@ -36,15 +36,4 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vahdettina&show_icons=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahdettina&layout=compact&theme=github_dark" />
-</p>
 
----
-
-## 💡 Quote
-> “The best software is written by those who love what they do.”
-
----
